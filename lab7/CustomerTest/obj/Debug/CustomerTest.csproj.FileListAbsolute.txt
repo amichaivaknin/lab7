@@ -1,0 +1,7 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomerTest\bin\Debug\CustomerTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomerTest\bin\Debug\CustomerTest.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomerTest\bin\Debug\CustomersApp.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomerTest\bin\Debug\CustomersApp.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomerTest\obj\Debug\CustomerTest.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomerTest\obj\Debug\CustomerTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomerTest\obj\Debug\CustomerTest.pdb

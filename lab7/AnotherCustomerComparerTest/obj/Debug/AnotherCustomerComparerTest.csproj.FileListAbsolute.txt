@@ -1,0 +1,8 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\AnotherCustomerComparerTest\bin\Debug\AnotherCustomerComparerTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\AnotherCustomerComparerTest\bin\Debug\AnotherCustomerComparerTest.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\AnotherCustomerComparerTest\bin\Debug\CustomersApp.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\AnotherCustomerComparerTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\AnotherCustomerComparerTest\bin\Debug\CustomersApp.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\AnotherCustomerComparerTest\obj\Debug\AnotherCustomerComparerTest.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\AnotherCustomerComparerTest\obj\Debug\AnotherCustomerComparerTest.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\AnotherCustomerComparerTest\obj\Debug\AnotherCustomerComparerTest.pdb
