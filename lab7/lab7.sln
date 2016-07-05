@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerTest", "CustomerTes
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnotherCustomerComparerTest", "AnotherCustomerComparerTest\AnotherCustomerComparerTest.csproj", "{F7A94FC6-4891-4B6F-92CF-8CEF4926DFA9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiDictionaryTest", "MultiDictionary\MultiDictionaryTest.csproj", "{EF26ED65-068E-45DF-ACF3-DB7A8BA1D1F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F7A94FC6-4891-4B6F-92CF-8CEF4926DFA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7A94FC6-4891-4B6F-92CF-8CEF4926DFA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7A94FC6-4891-4B6F-92CF-8CEF4926DFA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EF26ED65-068E-45DF-ACF3-DB7A8BA1D1F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF26ED65-068E-45DF-ACF3-DB7A8BA1D1F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF26ED65-068E-45DF-ACF3-DB7A8BA1D1F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF26ED65-068E-45DF-ACF3-DB7A8BA1D1F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

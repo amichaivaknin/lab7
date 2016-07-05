@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace GenericApp
 {
-    class MultiDictionary<K,V> : IMultiDictionary<K,V>, IEnumerable<KeyValuePair<K, IEnumerable<V>>>
+    public class MultiDictionary<K,V> : IMultiDictionary<K,V>, IEnumerable<KeyValuePair<K, IEnumerable<V>>>
     {
 
         internal Dictionary<K, LinkedList<V>> Dictionary = new Dictionary<K, LinkedList<V>>();
@@ -66,10 +66,13 @@ namespace GenericApp
 
         public bool Remove(K key, V value)
         {
-            if (Dictionary[key].Remove(value))
+            if (Dictionary.ContainsKey(key))
             {
-                Count--;
-                return true;
+                if (Dictionary[key].Remove(value))
+                {
+                    Count--;
+                    return true;
+                }
             }
             return false;
         }

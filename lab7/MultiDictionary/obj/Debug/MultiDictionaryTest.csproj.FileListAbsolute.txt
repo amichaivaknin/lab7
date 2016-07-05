@@ -1,0 +1,7 @@
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\MultiDictionary\bin\Debug\MultiDictionary.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\MultiDictionary\bin\Debug\MultiDictionary.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\MultiDictionary\bin\Debug\GenericApp.exe
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\MultiDictionary\bin\Debug\GenericApp.pdb
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\MultiDictionary\obj\Debug\MultiDictionaryTest.csprojResolveAssemblyReference.cache
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\MultiDictionary\obj\Debug\MultiDictionary.dll
+C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\MultiDictionary\obj\Debug\MultiDictionary.pdb
