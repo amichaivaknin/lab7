@@ -4,3 +4,6 @@ C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomersApp\b
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomersApp\bin\Debug\CustomersApp.pdb
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomersApp\obj\Debug\CustomersApp.exe
 C:\Users\Ami\Documents\Visual Studio 2015\Projects\codeValue\lab7\CustomersApp\obj\Debug\CustomersApp.pdb
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab7\lab7\CustomersApp\bin\Debug\CustomersApp.exe.config
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab7\lab7\CustomersApp\obj\Debug\CustomersApp.exe
+D:\git\codevalue\advanced-net-course\home-assignments\5\Amihai Vaknin\lab7\lab7\CustomersApp\obj\Debug\CustomersApp.pdb
